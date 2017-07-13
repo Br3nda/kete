@@ -1,4 +1,6 @@
 class WebLink < ActiveRecord::Base
+  attr_accessible :title, :url
+
   include PgSearch
   include PgSearchCustomisations
   multisearchable against: %i[
