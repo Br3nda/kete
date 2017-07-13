@@ -48,5 +48,8 @@ module KeteApp
 
     # Do not connect to DB when initializing assets as this breaks on Heroku
     config.assets.initialize_on_precompile = false
+
+    # turn off mass assignments
+    config.active_record.whitelist_attributes = true
   end
 end # Configure sensitive parameters which will be filtered from the log file.
