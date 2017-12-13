@@ -87,7 +87,7 @@ gem 'dynamic_form', '~> 1.1.4'
 
 gem "backgroundrb-rails3", "~> 1.1.6", :require => 'backgroundrb'
 gem 'mini_exiftool', '< 2.0.0'
-gem 'rmagick', "2.13.3", require: 'RMagick'
+gem 'rmagick', "2.16.0", require: 'RMagick'
 
 
 # Note: the file config/required_software.yml is a good place to look for things that would be needed in a bundler file.
