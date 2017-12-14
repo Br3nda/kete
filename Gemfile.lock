@@ -243,7 +243,7 @@ GEM
       rack
     rack-test (0.6.3)
       rack (>= 1.0)
-    railroady (1.1.1)
+    railroady (1.5.3)
     rails (3.2.22.1)
       actionmailer (= 3.2.22.1)
       actionpack (= 3.2.22.1)
