@@ -26,7 +26,7 @@ gem "pg_search", "~> 0.7.2"
 gem 'acts_as_versioned', github: "jwhitehorn/acts_as_versioned"
 
 # RABID: the old plugin version of acts-as-taggable-on was 1.0.0
-gem 'acts-as-taggable-on', '~> 3.3.0'
+gem 'acts-as-taggable-on', '~> 3.5.0'
 
 # RABID:
 # Kete monkey patches attachment_fu a lot so we cannot track easily track the
