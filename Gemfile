@@ -13,7 +13,7 @@ gem 'tinymce-rails', '~> 4.1.4'
 # Heroku needs this
 gem 'rails_12factor', group: :production
 
-gem 'jquery-rails', '~> 3.1.1'
+gem 'jquery-rails', '~> 3.1.4'
 gem 'haml'
 gem 'acts_as_licensed', github: 'kete/acts_as_licensed', branch: 'rails3-gem'
 # gem "sql-logging"
