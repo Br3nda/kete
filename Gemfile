@@ -167,7 +167,7 @@ gem "acts_as_soft_deletable", :git => "git://github.com/says/acts_as_soft_deleta
 #gem 'redhillonrails_core',          '1.0.4' # >> 2008-06-30
 #gem 'ssl_requirement',              '0.0.1' # >> 2008-05-29
 #gem 'nove-system-settings',         '0.2.0' # >> 2008-01-14, replaces 'system_settings'
-gem 'will_paginate', '~> 3.0.5'
+gem 'will_paginate', '~> 3.1.6'
 
 
 # RABID: should be removed:
