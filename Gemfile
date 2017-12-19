@@ -147,7 +147,7 @@ gem 'http_url_validation_improved'
 # (I've locked versions to avoid errors during upgrade).
 
 
-gem 'active_scaffold', '~> 3.3.3'
+gem 'active_scaffold', '~> 3.4.33'
 
 
 #gem "acts_as_licensed", "#.#.#", :git => "git://github.com/shuber/sortable.git" # 2008-07-10
