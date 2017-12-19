@@ -5,7 +5,7 @@ ruby '2.1.2'
 gem "rails", "3.2.22.1"
 gem 'unicorn'
 
-gem 'tinymce-rails', '~> 4.1.4'
+gem 'tinymce-rails', '~> 4.7.4'
 
 # EOIN: TODO: I suspect there are gems mentioned in here that rails pulls in
 # implicitly - we should remove them from here if so.
