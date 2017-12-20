@@ -55,7 +55,7 @@ gem 'validate_url'
 gem 'kete-feedzirra', github: 'kete/feedzirra'
 
 # https://github.com/swanandp/acts_as_list
-gem 'acts_as_list', '~> 0.3.0'
+gem 'acts_as_list', '~> 0.9.10'
 
 gem 'acts_as_configurable', '0.0.8'
 
