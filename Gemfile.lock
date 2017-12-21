@@ -90,7 +90,7 @@ GEM
     avatar (0.2.0)
     awesome_nested_set (2.1.6)
       activerecord (>= 3.0.0)
-    awesome_print (1.2.0)
+    awesome_print (1.8.0)
     backgroundrb-rails3 (1.1.6)
       chronic (>= 0.2.3)
       packet (>= 0.1.15)
