@@ -219,7 +219,7 @@ group :development, :test do
   gem 'byebug', :platforms => [:mingw_20, :ruby_20, :ruby_21]
   gem 'pry-byebug', :platforms => [:mingw_20, :ruby_20, :ruby_21]
   gem 'awesome_print'
-  gem "factory_girl_rails", "~> 4.5.0"
+  gem "factory_girl_rails", "~> 4.9.0"
   gem 'rubocop', '~> 0.31.0', require: false
 end
 
