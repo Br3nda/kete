@@ -86,7 +86,7 @@ gem 'dynamic_form', '~> 1.1.4'
 # ################
 
 gem "backgroundrb-rails3", "~> 1.1.6", :require => 'backgroundrb'
-gem 'mini_exiftool', '< 2.0.0'
+gem 'mini_exiftool', '< 3.0.0'
 gem 'rmagick', "2.13.3", require: 'RMagick'
 
 
