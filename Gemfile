@@ -62,7 +62,7 @@ gem 'acts_as_configurable', '0.0.8'
 # EOIN: piggy_back is an old implementation of AR #include e.g User.include(:roles).find.where(...) etc.
 #gem "piggy_back", "#.#.#", :git => "git://github.com/shuber/sortable.git" # 2009-03-17
 
-gem 'routing-filter', '~> 0.3.1'
+gem 'routing-filter', '~> 0.4.0'
 
 gem 'oembed_provider_engine'
 
